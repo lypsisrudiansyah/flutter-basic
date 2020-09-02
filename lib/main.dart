@@ -10,7 +10,7 @@ class MyApp extends StatelessWidget {
         appBar: AppBar(
           title: Text("Aplikasi Fundamental"),
         ),
-        body: Center(
+        body: Center( 
             child: Container(
                 color: Colors.lightBlue,
                 width: 150,
